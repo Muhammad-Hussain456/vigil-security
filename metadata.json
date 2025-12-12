@@ -1,0 +1,5 @@
+{
+  "name": "VIGIL HIPS Platform",
+  "description": "Next-Gen Host Intrusion Prevention System powered by Gemini 3 Pro. Features real-time threat telemetry, AI-driven forensics, and natural language policy generation.",
+  "requestFramePermissions": []
+}
